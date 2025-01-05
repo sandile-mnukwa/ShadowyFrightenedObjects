@@ -42,4 +42,4 @@ if choice1 == "left" or choice1 == "Left" or choice1 == "LEFT":
     else:
         print("Attacked by an angry trout. Game Over.")
 else:
-    print("You Fell into a hole.Game Over. Sorry bye")
+    print("You Fell into a hole. Game Over. Sorry bye")
